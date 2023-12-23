@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算大端或小端存储", "计算大端或小端存储\计算大端或小端存储.vcxproj", "{39748E85-00B0-4586-92D7-1515537087CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39748E85-00B0-4586-92D7-1515537087CC}.Debug|x64.ActiveCfg = Debug|x64
+		{39748E85-00B0-4586-92D7-1515537087CC}.Debug|x64.Build.0 = Debug|x64
+		{39748E85-00B0-4586-92D7-1515537087CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{39748E85-00B0-4586-92D7-1515537087CC}.Debug|x86.Build.0 = Debug|Win32
+		{39748E85-00B0-4586-92D7-1515537087CC}.Release|x64.ActiveCfg = Release|x64
+		{39748E85-00B0-4586-92D7-1515537087CC}.Release|x64.Build.0 = Release|x64
+		{39748E85-00B0-4586-92D7-1515537087CC}.Release|x86.ActiveCfg = Release|Win32
+		{39748E85-00B0-4586-92D7-1515537087CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5079B9-7E4A-48B3-90C1-AD30E31FEB25}
+	EndGlobalSection
+EndGlobal
