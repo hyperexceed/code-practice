@@ -1,0 +1,4 @@
+﻿  sum.c
+E:\git code\code-exercise\在数组中寻找和为目标值的数\在数组中寻找和为目标值的数\sum.c(34): warning C4715: “sum”: 不是所有的控件路径都返回值
+E:\git code\code-exercise\在数组中寻找和为目标值的数\在数组中寻找和为目标值的数\sum.c(30): warning C4172: 返回局部变量或临时变量的地址: j
+  在数组中寻找和为目标值的数.vcxproj -> E:\git code\code-exercise\在数组中寻找和为目标值的数\x64\Debug\在数组中寻找和为目标值的数.exe
