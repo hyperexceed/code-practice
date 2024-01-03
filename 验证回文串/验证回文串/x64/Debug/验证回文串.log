@@ -1,0 +1,5 @@
+﻿  islower.c
+  Justify.c
+E:\git code\code-exercise\验证回文串\验证回文串\Justify.c(136,40): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  验证回文串.vcxproj -> E:\git code\code-exercise\验证回文串\x64\Debug\验证回文串.exe
